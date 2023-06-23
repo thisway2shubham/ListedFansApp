@@ -1,74 +1,79 @@
-# Getting Started with Create React App
-## Created with the help of ReactJs and Tailwind css.
+# Listed Fans Assignment
+---
+### Getting Started with `create-react-app` 
+
+## Task
+> You are provided with 2 basic screens Dashboard UI. You need to convert the high
+> Fidelity design into code using React/Next and CSS/SASS/SCSS/LESS/Tailwind CSS.
+
+## Problem Statement -
+> Make a basic auth using Google (Login/Signup using google) [Resource:](https://next-auth.js.org/)
+
+> [Design File Link:] (https://www.figma.com/file/gKLhBDaTmdNDzHjsvqFMmC/Front-End-Developer-Task?node-id=0-1&t=rJ4A60cFvrDoc5TE-0)
+
+> The dashboard should be pixel-perfect and look like a replica of the design.
+
+> Don’t blindly copy and paste the Figma inspect code. Use your skills to make it fit all screens.
+
+> The charts should be working with some dummy data.
+
+> Fetch the basic data using Axios/Fetch. (You can build an API or fetch json from public repo)
+> [Resource:] (https://github.com/public-apis/public-apis)
+
+
 ## Note :
 * To sign in just give correct email format and put some value in password field to navigate to dashboard.
 * Please refresh the page while changing the size of screen to refresh the graph size.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Dependencies :
+> **Tailwind**
 
-In the project directory, you can run:
+ `npm install -D tailwindcss`
+ 
+ `npx tailwindcss init`
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+> **Toastify**
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+ `npm install react-toastify`
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+> **Chart js**
 
-### `npm run build`
+ `npm i react-chartjs-2 chart.js`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+> **React-Router-Dom**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+ `npm install react-router-dom`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+ ---
 
-### `npm run eject`
+ ## Working Images
+---
+![Image1] (https://drive.google.com/file/d/1_K-saLVXC3bBLTiQuueRrPbzCCzn6wwh/view?usp=drive_link)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Image2]  (https://drive.google.com/file/d/1MlC9yPoGMnhFYHW0kcQ5ckpUG6-AynXM/view?usp=drive_link)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![Image3] (https://drive.google.com/file/d/1ErODPpIuvx8yPkuwk6AGPrKYr6sysVvP/view?usp=drive_link)
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![Image4] (https://drive.google.com/file/d/18fTYrG6TvcRPT1MjRqq2ZHOWqcJoCtAi/view?usp=drive_link)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+![Image5] (https://drive.google.com/file/d/1BiYMm_XZCrNoWEBlgyUr6666G6XzypvY/view?usp=drive_link)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+![Image6] (https://drive.google.com/file/d/19DanpMq3kFyhA5pUPjYBmqxkCZtAO7oI/view?usp=drive_link)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Image7] (https://drive.google.com/file/d/1H3eyH0elk-Ve_ty6tzzgsmyt6AOppLkP/view?usp=drive_link)
+ 
