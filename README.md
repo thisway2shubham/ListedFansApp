@@ -51,12 +51,12 @@
 
  ## Working Images
 ---
-![Image1] 
+![Image one] 
 (https://drive.google.com/file/d/1_K-saLVXC3bBLTiQuueRrPbzCCzn6wwh/view?usp=drive_link)
 
 ___
 
-![Image2] 
+![Image two] 
 (https://drive.google.com/file/d/1MlC9yPoGMnhFYHW0kcQ5ckpUG6-AynXM/view?usp=drive_link)
 
 ___
