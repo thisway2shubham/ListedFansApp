@@ -52,7 +52,7 @@
  ## Working Images
 ---
 ![Image one] 
-(https://drive.google.com/file/d/1_K-saLVXC3bBLTiQuueRrPbzCCzn6wwh/view?usp=drive_link)
+("C:\Users\ASUS\Pictures\Screenshots\Screenshot 2023-06-23 192303.png")
 
 ___
 
