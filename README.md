@@ -61,25 +61,25 @@ ___
 
 ___
 
-![Image3] 
+![Image three] 
 (https://drive.google.com/file/d/1ErODPpIuvx8yPkuwk6AGPrKYr6sysVvP/view?usp=drive_link)
 
 ___
 
-![Image4] 
+![Image four] 
 (https://drive.google.com/file/d/18fTYrG6TvcRPT1MjRqq2ZHOWqcJoCtAi/view?usp=drive_link)
 
 ___
 
-![Image5] 
+![Image Five] 
 (https://drive.google.com/file/d/1BiYMm_XZCrNoWEBlgyUr6666G6XzypvY/view?usp=drive_link)
 ___
 
-![Image6] 
+![Image Six] 
 (https://drive.google.com/file/d/19DanpMq3kFyhA5pUPjYBmqxkCZtAO7oI/view?usp=drive_link)
 
 ___
 
-![Image7] 
+![Image Seven] 
 (https://drive.google.com/file/d/1H3eyH0elk-Ve_ty6tzzgsmyt6AOppLkP/view?usp=drive_link)
  
